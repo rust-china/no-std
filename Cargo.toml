@@ -1,0 +1,9 @@
+[workspace]
+members = ["no-std"]
+
+[package]
+name = "no-std-workspace"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

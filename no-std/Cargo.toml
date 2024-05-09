@@ -1,0 +1,16 @@
+[package]
+name = "no-std"
+version = "0.0.1"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["sanmu <578595193@qq.com>"]
+readme = "../README.md"
+repository = "https://github.com/rust-china/no-std"
+categories = []
+keywords = ["no-std"]
+description = """
+impl some std library use no-std
+"""
+
+
+[dependencies]
